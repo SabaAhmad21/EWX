@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="./assests/imgs/logo circul.png">
+    <link rel="stylesheet" href="./assests/css/object oriented.css">
+    <link rel="stylesheet" href="./assests/css/nav.css">
+    <script src="./assests/js/index.js"></script>
+
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init("AnmCVOTKWKVWp4Ps5");
+      })();
+    </script>
+    <title>Graphics Design</title>
+</head>
+<body>
+  <!-- Vedio Editing -->
+  <div class="container p-2">
+    <div class="row">
+
+      <div class="col-sm-6  col-md-6 col-lg-4 col-xl-4  mt-3">
+        <img src="./assests/imgs/EWX-logo.png" alt="EWX logo" class="img-fluid imghight  ">
+      </div>
+      <!-- iconmain -->
+      <div class="col-sm-10 col-xs-12 col-md-8 col-lg-8  col-xl-8 ">
+        <div class="row  ">
+          <!-- iconcol -->
+          <div
+            class="col-sm-10 col-md-6 col-lg-4 col-xl-4  	d-none d-sm-block 	d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block  mt-5">
+            <div class="row ">
+              <div class="col-md-4  col-xs-12 col-sm-10 col-lg-4  ">
+                <div class="iconmain">
+                  <i class="fa fa-pen-to-square" style="font-size:28px"></i>
+                </div>
+              </div>
+              <!-- ahrftext -->
+              <div class="col-sm-10  col-md-8  col-xs-12 col-lg-8 col-xl-8  ">
+                <a href="#" class="ahreftex">Register Now </a>
+                <p class="ahreftex1">Click Here</p>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- 2ndiconcol -->
+          <div
+            class="col-sm-6 col-md-6 col-lg-4 col-xl-4  d-none d-sm-block 	d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block mt-5">
+            <div class="row ">
+              <div class="col-md-4  col- col-lg-4  ">
+                <div class="iconmain">
+                  <i class="fa fa-envelope" style="font-size:28px"></i>
+                </div>
+              </div>
+              <!-- ahrftext -->
+              <div class="col-sm-12   col-md-8   col-lg-8 col-xl-8">
+                <a href="#"  type="button" class=" ahreftex" data-bs-toggle="modal" data-bs-target="#exampleModal">Post Inquiry</a>
+                <p class="ahreftex1">Get Back to you</p>
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+                  <div class="modal-dialog" >
+                    <div class="modal-content" style="width: 25rem;">
+                      <div class="modal-header " style="background-color: black;">
+                        <h2 class="modal-title ms-4" id="exampleModalLabel" style="color: #0d6efd;">EW<span style="color: #fd7e14;">X</span></h2>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="background-color: #fd7e14;"></button>
+                      </div>
+                      <div class="modal-body" style="background:linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url(./assests/imgs/EWX\ Final\ logo\ hope\ fully.png);color: white;">
+                        <div class="container mb-4" style="display: inline-block;">
+                          <div class="row">
+                      
+                            <div class="col-md-10 col-lg-10 col-xl-10 col-sm-12 col-xs-12">
+                         
+                              <div class="form-group">
+                                <b class="ms-3">Name:</b>
+                                <input type="text" name="name" id="name" class="form-control   mt-2" placeholder="Enter your name"  required="" width="100%">
+                            </div>
+                            <div class="form-group">
+                              <b class="ms-3">Contact No:</b>
+                              <input type="number" name="email  mt-2" id="contact" class="form-control" placeholder="Enter your Phone No" required=""  width="100%">
+                          </div>
+                          <div class="form-group">
+                            <b class="ms-3" >Select Course:</b>
+                            <select class="form-control ddl mt-2" id="course" name="course" required="required"  width="100%"><option value="">Select Course</option>
+                              <option value="C# & ASP .NET CORE/ASP .NET MVC
+                              COURSE">C# & ASP .NET CORE/ASP .NET MVC
+                              COURSE</option>
+                              <option value="FRONT END WEB DEVELOPMENT
+                              COURSE">FRONT END WEB DEVELOPMENT
+                              COURSE</option>
+                              <option value="ANDROID MOBILE APP DEVELOPMENT
+                              COURSE">ANDROID MOBILE APP DEVELOPMENT
+                              COURSE</option>
+                              <option value="CERTIFIED GRAPHICS & WEB DESIGNER">CERTIFIED GRAPHICS & WEB DESIGNER</option>
+                              <option value="VEDIO EDITING COURSE">VEDIO EDITING COURSE</option>
+                              <option value="FULL STACK WEB DEVELOPMENT COURSE">FULL STACK WEB DEVELOPMENT COURSE</option>
+                              <option value="MERN STACK WEB DEVELOPMENT COURSE">MERN STACK WEB DEVELOPMENT COURSE</option>
+                              <option value="PHP AND LARAVEL WEB DEVELOPMENT
+                              COURSE">PHP AND LARAVEL WEB DEVELOPMENT
+                              COURSE</option>
+                              <option value="ANGULAR WEB DEVELOPMENT COURSE">ANGULAR WEB DEVELOPMENT COURSE</option>
+                              <option value="SOCIAL MEDIA COURSE
+                              ">SOCIAL MEDIA COURSE
+                              </option>
+                              <option value="Certified Information Technology (CIT) course
+                              ">Certified Information Technology (CIT) course
+                            </option>
+                              <option value="ENGLISH SPOKEN COURSE">ENGLISH SPOKEN COURSE</option>
+                              <option value="
+                              ORACLE DBA COURSE (OCP: ORACLE 12C
+                              DBA)">
+                                ORACLE DBA COURSE (OCP: ORACLE 12C
+                                DBA)</option>
+                                <option value="WORDPRESS THEME & PLUGIN DEVELOPMENT">WORDPRESS THEME & PLUGIN DEVELOPMENT</option>
+                                <option value="PMP PREPARATION(Project Manager) COURSE">PMP PREPARATION(Project Manager) COURSE</option>
+                              </select>
+                        </div>
+                        <div class="form-group">
+                          <b class="ms-3">Select Branch:</b>
+                          <select class="form-control ddl mt-2" id="branch" name="Branch" required="required"  width="100%"><option value="Rawalpindi / Isb Branch">Rawalpindi / Isb Branch</option>
+                            <option value="Gujrat Branch">Gujrat Branch</option>
+                            <option value="Dubai Branch">Dubai Branch</option>
+                            <option value="Online Classes">Online Classes</option>
+                            </select>
+                      </div>
+                      <div class="form-group">
+                        <b class="ms-3">Message:</b>
+                        <textarea name="message" id="message" class="form-control  mt-2" placeholder="Your message here" rows="4"  width="100%"></textarea>
+                    </div>
+                              <button class="btn btn-primary mt-2" onclick="sendMail()">Submit</button>
+                            </div>
+                          </div>
+                        </div> 
+                      </div>
+                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div
+            class="col-sm-10 col-md-6 col-lg-4 col-xl-4   	d-none d-sm-block 	d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block mt-5 ">
+            <div class="row">
+              <div class="col-md-4  col-xs-12 col-sm-10 col-lg-4  ">
+                <div class="iconmain">
+                  <i class="fa-solid fa-certificate certifcate" style="font-size:38px; color: goldenrod;"></i>
+                </div>
+              </div>
+              <!-- ahrftext -->
+              <div class="col-sm-10  col-md-10  col-xs-12  col-lg-8 col-xl-8">
+                <a href="certified students .html" class="ahreftex">Verify Certificate</a>
+                <a href="certified students .html" style="text-decoration: none;color: black;"> <p class="ahreftex1" >Click Here</p></a>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <!-- 2ndnav -->
+  <nav class=" menu navbar m-auto navbar-expand-lg navbar-light second-nav">
+    <a class="navbar-brand text-light fw-bold mx-2  d-block  d-sm-none  d-sm-block d-md-block  d-md-block d-lg-none d-xl-none" href="#">Menu</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+     
+
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+            
+          <span> <a class="nav-link" style="color: white;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+            border-radius: 25px;width: 6rem;text-align: center;" href="index.html"> <i class="fa fa-house"></i> Home <span class="sr-only">(current)</span></a></span>
+        </li>
+   
+        <li class="nav-item">
+          <span><a class="nav-link ml-2" href="sechdule.html" style="color: white;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+            border-radius: 25px;width: 6rem;text-align: center;"> <i class="fa fa-calendar"></i> Schedule</a></span>
+        </li>
+      
+        <li class="nav-item dropdown">
+          <span><a class="nav-link ml-5 dropdown-toggle" style="color: white;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+            border-radius: 25px;width: 8rem;text-align: center;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fa fa-certificate"></i> Certification
+          </a></span>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend">
+                <a class="nav-link  ml-3 text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-arrow-circle-right"></i> Microsoft
+                </a>
+                <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink" style="position: absolute; left: 140px; top: 20px;">
+                  <a class="dropdown-item" href="#"> <span class="fa fa-arrow-circle-right"></span> MCP</a>
+                  <a class="dropdown-item" href="#"><span class="fa fa-arrow-circle-right"></span> MCSA</a>
+                  <a class="dropdown-item" href="#"><span class="fa fa-arrow-circle-right"></span> MCSD</a>
+
+                </div>
+              </li>
+            </ul>
+            
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend" >
+                <a class="nav-link ml-3 text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-arrow-circle-right"></i> Oracle
+                </a>
+                <div class="dropdown-menu" style="position: absolute; left: 140px; top: 50px;" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" href="#"> <span class="fa fa-arrow-circle-right"></span> OCA</a>
+                  <a class="dropdown-item" href="#"><span class="fa fa-arrow-circle-right"></span> OCP</a>
+                    </div>
+                    
+                   
+              </li>
+            </ul>
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend" >
+            <a class="nav-link ml-3 text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-arrow-circle-right"></i> IBM
+            </a>
+          </li>
+            </ul>
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend" >
+            <a class="nav-link ml-3 text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-arrow-circle-right"></i> ZEND
+            </a>
+          </li>
+            </ul>
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend" >
+            <a class="nav-link ml-3 text-light "  href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-arrow-circle-right"></i> PMI
+            </a>
+          </li>
+          
+            </ul>
+            
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <span><a class="nav-link ml-5  dropdown-toggle" style="color: white;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+            border-radius: 25px;width: 8rem;text-align: center;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           <i class='fas fa-graduation-cap'></i> Diploma
+          </a></span>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend">
+                <a class="nav-link  ml-3 text-light dropdown-toggle"  href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-arrow-circle-right"></i> Level 1
+                </a>
+                <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink" style="position: absolute; left: 140px; top: 14px;">
+                  <a class="dropdown-item" href="#"> <span class="fa fa-arrow-circle-right"></span> From Beginning</a>
+                
+
+                </div>
+              </li>
+            </ul>
+            
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend">
+                <a class="nav-link  ml-3 text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-arrow-circle-right"></i> Level 2
+                </a>
+                <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink" style="position: absolute; left: 140px; top: 44px;">
+                  <a class="dropdown-item" href="#"><span class="fa fa-arrow-circle-right"></span> From Intermediate</a>
+                 
+
+                </div>
+              </li>
+            </ul>
+            <ul class="navbar-nav">
+              <li class="nav-item dropdend">
+                <a class="nav-link  ml-3 text-light dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-arrow-circle-right"></i>Level 3
+                </a>
+                <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink" style="position: absolute; left: 140px; top: 90px;width: 100%;">
+                  <a class="dropdown-item" href="#"> <span class="fa fa-arrow-circle-right"></span> From Advance</a>
+                 
+                </div>
+              </li>
+            </ul>
+
+            
+          </div>
+        </li>
+        <li class="nav-item active">
+          <span> <a class="nav-link" href="#" style="color: #ffffff;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+            border-radius: 25px;width: 8rem;text-align: center;"><i class='fas fa-user-graduate'></i> Shining Star</a>
+        </li>
+          <li class="nav-item active">
+            <span> <a class="nav-link" href="our team.html" style="color: #fdfeff;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+              border-radius: 25px;width: 7rem;text-align: center;"><i class="fa-solid fa-user-group "></i> Our Team</a>
+          </li>
+          <li class="nav-item active">
+            
+            <span><a class="nav-link" href="contactus.html" style="color: #ffffff;background:  linear-gradient(#CB004B,#E20155,#AF003E);
+              border-radius: 25px;width: 7rem;text-align: center;"> <i class="fa-solid fa-phone " ></i> Contact Us</a></span>
+          </li>
+          
+      
+        
+      </ul>
+    </div>
+  </nav>
+  <!-- nav-end  -->
+       <div class="container-fluid bgcolor" style="background-color:#ed5151;">
+        <div class="container ">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12 col-xl-12 mt-2">
+                  <h3 class="stack">CERTIFIED GRAPHICS & WEB DESIGNER IN  RAWALPINDI , GUJRAT , DUBAI & ONLINE( Online Classes )
+
+                </h3> 
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-3">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-sm-10 col-xs-12 col-xl-8 col-lg-8 mt-3">
+                <img src="./assests/imgs/Graphics designer.png" class="img-fluid" width="900">
+                <h2 class="mt-2" style="color: #027ec4;font-size: 40px ; margin-top: 10px; font-weight: 600;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"> Course content </h2>
+
+              <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                    <div class="mt-2 ">
+                        <p>This course is designed to develop a strong foundation of the students for developing powerful visual communications. Students will learn to visualize the concepts, techniques of graphics and design and application of software like Adobe Illustrator / CorelDraw, Photoshop and InDesign for creating effective designs for print media, outdoor advertisement and the web. The course will also cover Web designing using HTML5, CSS3 and Dreamweaver.</p>                  
+                        <h3><span>Brief Contents</span></h3>
+                        <hr style="height: 10px;">
+                    </div>
+                    <div class="stacklist">
+                       Essentials of graphics, design and color theory
+                    </div>
+                    <div class="stacklist">
+                      Working with Illustrator documents
+                                            </div>
+                    <div class="stacklist">
+                      Drawing and transforming objects
+                    </div>
+                    <div class="stacklist">
+                      Managing color and transparency
+                    </div>
+                    <div class="stacklist">
+                      Typography and using type in Illustrator
+                    </div>
+                    <div class="stacklist">
+                      Controlling effects, appearances, and graphic style
+                    </div>
+                    <div class="stacklist">
+                      Building graphic objects and working with images
+                    </div>
+                    <div class="stacklist">
+                      Photoshop Intro, working with selections and layers
+                    </div>
+                    <div class="stacklist">
+                      Using masks and channels
+                    </div>
+                    <div class="stacklist">
+                      Working with type and vector tools
+                    </div>
+                    <div class="stacklist">
+                      Adjusting and processing photographs
+                    </div>
+                    <div class="stacklist">
+                      Retouching and manipulating images
+                    </div>
+                    <div class="stacklist">
+                      Working in Adobe Camera Raw
+                    </div>
+                    <div class="stacklist">
+                      Painting and filtering an image
+                    </div>
+                    <div class="stacklist">
+                      Generating Output for Print media and the web
+                    </div>
+                    <div class="stacklist">
+                      Creating web pages using HTML and XHTML
+                    </div>
+                    <div class="stacklist">
+                      Controlling page styles and layout with CSS
+                    </div>
+                    <div class="stacklist">
+                      Adding graphics and multimedia in web pages
+                    </div>
+                    <div class="stacklist">
+                      Using Dreamweaver for rapid web development
+                    </div>
+                    <h3><span>Training Methodology</span></h3>
+                     <div class="motiongraphics">
+                        <h3><span>Audience</span></h3>
+                        <div class="stacklist">
+                          Students and graduates of any discipline
+                        </div>
+                        <div class="stacklist">
+                          People looking for career in graphics and web designing
+                        </div>
+                        <div class="stacklist">
+                          People willing to learn graphic designing and animation
+                        </div>
+                     </div>
+                       
+                    <div class="Course Project">
+                        <h5><span>Course Project</span></h5>
+                        <p>As a project of the course students have to develop a design theme according given requirements of a company. Student will also create logo, stationary, brochure, posters, banners, billboard and website of the company according to designed theme</p>
+                    </div>
+                        <div class="certificate">
+                            <h5><span>Certificate</span></h5>
+                            <div class="stacklist">
+                              Certified Graphics and Web Designer by EWX                       
+                            </div>                       
+                        </div>
+                        <div class="DurationFrequency">
+                            <h5><span>Duration & Frequency</span></h5>
+                            <div class="stacklist">
+                              3 Month (12 weeks; with 3 training sessions of 1.5 hours a week)                     
+                            </div>
+                        </div>
+                    
+
+                </div>
+              
+              
+             
+                </div>
+              </div>
+          
+                
+                     <!-- .. Post Inquiry... -->
+            <div class="col-md-4 col-sm-10 col-xs-12 col-lg-4 col-xl-4 mt-3 ">
+                <div class="row">
+
+            <div class="icons">
+                    <div class="col-wrap2" id="fixed" style="position: static; top: auto; left: 30px; margin-top: 0px;">
+                   <div class="pinqury" style="position: static;">
+                        <h6 class="pi" style="background-color: #ed5151;"><i class="fa-solid fa-file-signature"></i> Post Inquiry</h6>
+                    </div>
+                    <form action="/Inquiries/Submit" id="submitInquiryForm" method="post"><input name="_RequestVerificationToken" type="hidden" value="tGmalm-qTMenoH73Jd7mDXnNLfafE8PfyQNZB8ja9X3pqJP46cUy0t3YwBcL9-Y_Qvvd6jfrxDBjHyZGxHHLbDY3Y1c-OoMX0j7To7QUyw1"><div>
+                    <div class="validation-summary-valid text-danger" id="validationSummary"><ul><li style="display:none"></li>
+                    </ul></div>
+                    <div id="inqmsg" class="form-group" style="margin:0px 15px;"></div>
+                    <input id="PostedFrom" name="PostedFrom" type="hidden" value="">
+                    <div class="form-group">
+                    <input class="form-control name mt-2" id="name" name="Name"  placeholder="Full Name..." required="required" type="text" value="">
+                    <span class="field-validation-valid text-danger" id="Name_validationMessage"></span>
+               
+                    </div>
+                    <div class="form-group">
+                    <input class="form-control email mt-2" id="email" name="Email" placeholder="Email Address..." type="email" value="">
+                    <span class="field-validation-valid text-danger" id="Email_validationMessage"></span>
+               
+                    </div>
+                    <div class="form-group">
+                    <input class="form-control cell mt-2" id="contact" name="Cell" placeholder="Cell number e.g (0300) 1111111..." type="text" value="">
+                    <span class="field-validation-valid text-danger" id="Cell_validationMessage"></span>
+                  
+                    </div>
+                    <div class="form-group ">
+                    <div class="">
+                    <select class="form-control ddl mt-2" id="branch" name="Branch" required="required"><option value="">Select Branch</option>
+                      <option value="Rawalpindi / Isb Branch">Rawalpindi / Isb Branch</option>
+                      <option value="Gujrat Branch">Gujrat Branch</option>
+                      <option value="Dubai Branch">Dubai Branch</option>
+                      <option value="Online Classes">Online Classes</option>
+                    </select>
+                    </div>
+                    </div>
+                    <div class="form-group ">
+                    <textarea class="form-control message mt-2" cols="20" id="message" name="Message" placeholder="Write Message ..." required="required" rows="4"></textarea>
+                        
+        
+                    <span class="field-validation-valid text-danger" id="Message_validationMessage"></span>
+              
+                    </div>
+                    <div class="form-group p-2">
+                    <button  type="submit" id="inquiryFormSubmitBtn" class="btn btn-lg" style="background-color:#ffaf51; color: white;" onclick="sendMail()">Submit</button>
+                    <img id="inquiryFormWaiting" src="/Content/Images/loading.gif" alt="loading" style="width:100px;display:none" class="img-responsive">
+                    </div>
+                    </div>
+                    </div>
+                </div>
+                 <!--  Post Enquiry end -->
+                      <!--  button -->
+
+    
+              
+            </div>
+            <div class="row">
+              <div class="row">
+                 <div class="container mt-3">
+                   <div class="row">
+                     <!-- Card 1 start -->
+                     <h2 style="color: #027ec4; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding:10px ; font-weight: 600;"> Schedule</h2>
+                     <div class="col-md-12">
+                       <div class="schedule">
+                         <div class="card">
+                          <h2 style="background-color:#ffaf51; color: white; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding:5px ; text-align: center;" >Rawalpindi</h2>
+                           <div class="card-body">
+                             <p class="card-title">
+                               <span class="fa fa-calendar"></span> <b style="color:#027ec4 ;"> Seminar on Oct 30 , 2023 at
+                                 05:00 PM</b>
+                               <span class='far fa-arrow-alt-circle-right'></span><b style="color: #027ec4;"> Classes start
+                                 from Nov 01, 2023</b>
+                             </p>
+                             <p class="card-text">
+                             <div class="row">
+                               <div class="col-md-5">
+                                 <p>Monday
+                                   <br>
+                                 Wednesday(lab)
+                                   <br>
+                                 Friday</p>
+                               </div>
+                               <div class="col-md-7">
+                                 <p>: 04:30 PM To 06:00 PM
+                                 <br>
+                                 : 04:30 PM To 06:00 PM
+                               <br>
+                               : 04:30 PM To 06:00 PM
+                                 </p>
+                               </div>
+                             </div>
+                             </p>
+                             <hr>
+                        
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+                   </div>
+                   <div class="row mt-3">
+                     <!-- Card 1 start -->
+                     <div class="col-md-12">
+                       <div class="schedule">
+                         <div class="card">
+                       <h1 style="background-color:#ffaf51; color: white; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding:5px ; text-align: center;">Gujrat</h1>
+                           <div class="card-body">
+                             <p class="card-title">
+                               <span class="fa fa-calendar"></span> <b style="color:#027ec4 ;"> Seminar on Aug 04 , 2023 at
+                                 06:00 PM</b>
+                               <span class='far fa-arrow-alt-circle-right'></span><b style="color: #027ec4;"> Classes start
+                                 from Aug 12, 2023</b>
+                             </p>
+                             <p class="card-text">
+                             <div class="row">
+                               <div class="col-md-5">
+                                 <p>Saturday
+                                   <br>
+                                 Sunday(lab)
+                                   <br>
+                                 Sunday</p>
+                               </div>
+                               <div class="col-md-7">
+                                 <p>:12:30 PM To 01:30 PM
+                                 <br>
+                                 :01:30 PM To 03:00 PM
+                               <br>
+                                 :12:30 PM To 01:30 PM
+                                 </p>
+                               </div>
+                             </div>
+                             </p>
+                             <hr>
+                         
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+                   </div>
+                   <div class="row mt-3">
+                     <!-- Card 1 start -->
+                     <div class="col-md-12">
+                       <div class="schedule">
+                         <div class="card">
+                           <h2 style="background-color:#ffaf51; color: white; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding:5px ; text-align: center;"> Dubai</h2>
+                           <div class="card-body">
+                             <p class="card-title">
+                               <span class="fa fa-calendar"></span> <b style="color:#027ec4 ;"> Seminar on Aug 04 , 2023 at
+                                 06:00 PM</b>
+                               <span class='far fa-arrow-alt-circle-right'></span><b style="color: #027ec4;"> Classes start
+                                 from Aug 12, 2023</b>
+                             </p>
+                             <p class="card-text">
+                             <div class="row">
+                               <div class="col-md-5">
+                                 <p>Saturday
+                                   <br>
+                                 Sunday(lab)
+                                   <br>
+                                 Sunday</p>
+                               </div>
+                               <div class="col-md-7">
+                                 <p>:12:30 PM To 01:30 PM
+                                 <br>
+                                 :01:30 PM To 03:00 PM
+                               <br>
+                                 :12:30 PM To 01:30 PM
+                                 </p>
+                               </div>
+                             </div>
+                             </p>
+                             <hr>
+
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+
+            </div>
+        </div>
+        </div>
+        </div>
+    </div>
+    
+    <div class="coverbtn">
+      <button onclick="topFunction()" id="myBtn" title="Go to top"><span style='font-size:30px;'>&#8593;</span></button>
+ <!-- ..footer.. -->
+</div>
+<div class="container-fluid main3">
+  <div class="container">
+      <div class="row">
+    
+                  <div class="col-md-5">
+                      <div class="copyright">
+                        <h5 style="font-size: 18px; padding-left: 25px;"> <span>&copy;2023  EWX Professional Training Institute (PVT Ltd). </span></h5>
+                      </div>
+                  </div>
+                  <div class="col-md-7">
+                      <div class="owner">
+                        <h5  style="font-size: 18px; padding-left: 19px;"> Designed & Developed by  EWX Technology Solutions Development  Team  </h5> 
+                      </div>
+                  </div>
+                 
+                   
+                  
+              
+          </div>
+      </div>
+     
+  </div>
+
+
+    <!-- scrollbutton -->
+    
+   
+<script>
+// Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script> 
+  
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+    </html>

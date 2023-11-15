@@ -1,0 +1,681 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\Frontend.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\Frontend.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\Graphics.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\Graphics.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\ICT.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\ICT.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\MERNSTACK.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\MERNSTACK.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\Video Animation.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\Video Animation.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\Wordpress.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\Wordpress.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\andriod.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\andriod.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\angular.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\angular.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\.zip",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\.zip"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\contact us.css",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\contact us.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\contactus.zip",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\contactus.zip"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\index.css",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\index.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\nav.css",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\nav.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\object oriented.css",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\object oriented.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\css\\ourteam.css",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\css\\ourteam.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\.jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\.jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\1.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\1.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\2.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\2.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\3.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\3.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\4.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\4.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\9.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\9.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Andriod.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Andriod.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Angular.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Angular.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Animation.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Animation.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\EWX FINAL LOGO ORANGE.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\EWX FINAL LOGO ORANGE.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\EWX Final logo hope fully.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\EWX Final logo hope fully.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\EWX-logo.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\EWX-logo.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Evs-logo.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Evs-logo.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Front End.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Front End.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Full stack.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Full stack.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Graphics designer.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Graphics designer.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Information technology.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Information technology.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\MernStack.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\MernStack.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\Wordpress.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\Wordpress.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\calendar.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\calendar.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\card.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\card.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\coming soon1.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\coming soon1.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\coming soon3.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\coming soon3.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\coming sson2.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\coming sson2.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\degree (1).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\degree (1).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\dotnet.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\dotnet.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\dumy.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\dumy.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\facebook.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\facebook.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\fav icon.jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\fav icon.jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\google.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\google.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\graduated (2).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\graduated (2).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\graduated (3).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\graduated (3).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\hamza.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\hamza.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\home.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\home.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\instagram.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\instagram.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\jawad.jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\jawad.jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\jawad2.heic",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\jawad2.heic"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\jawadbutt1-modified.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\jawadbutt1-modified.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\just_logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\just_logo-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\lake.webp",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\lake.webp"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\lake2.webp",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\lake2.webp"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\line.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\line.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (1).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (1).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (10).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (10).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (11).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (11).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (12).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (12).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (14).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (14).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (16).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (16).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (17).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (17).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (19).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (19).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (2).jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (2).jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (2).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (2).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (3).jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (3).jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (3).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (3).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (4).jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (4).jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (4).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (4).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (5).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (5).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin (6).png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin (6).png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\linkdin .png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\linkdin .png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\logo circul.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\logo circul.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\logo.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\logo.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\phplaravel.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\phplaravel.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\quality.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\quality.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\read.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\read.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\shaheen-modified.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\shaheen-modified.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\socialmedia.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\socialmedia.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\spokenenglish.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\spokenenglish.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\sqlserver.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\sqlserver.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\telephone.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\telephone.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\twitter.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\twitter.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\umer.jpg",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\umer.jpg"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\uroosha.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\uroosha.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\valley1.webp",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\valley1.webp"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\valley2.webp",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\valley2.webp"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\whatsapp.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\imgs\\youtube.png",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\imgs\\youtube.png"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\assests\\js\\index.js",
+      "PackagePath": "staticwebassets\\EwxWebsite\\assests\\js\\index.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\coming soon.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\coming soon.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\contactus.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\contactus.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\dotnet.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\dotnet.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\fullstack.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\fullstack.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\index.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\index.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\nav.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\nav.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\our team.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\our team.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\php.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\php.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\sechdule.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\sechdule.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\socialmedia.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\socialmedia.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\spokenenglish.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\spokenenglish.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\EwxWebsite\\sqlserver.html",
+      "PackagePath": "staticwebassets\\EwxWebsite\\sqlserver.html"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EWX project\\EWX WEBSITE\\EWX-Website\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GUI.props",
+      "PackagePath": "build\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GUI.props",
+      "PackagePath": "buildMultiTargeting\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GUI.props",
+      "PackagePath": "buildTransitive\\GUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
